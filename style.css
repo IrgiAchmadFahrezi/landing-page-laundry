@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: poppins;
+
+}
+/* NAVBAR */
+.navbar-brand {
+    color: #FF5C00;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 44px;
+    letter-spacing: 0.100em;
+}
+.navbar-brand span {
+    color: #000000;
+}
+.navbar-nav {
+    gap: 25px;
+}
+.navbar-nav li {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+}
